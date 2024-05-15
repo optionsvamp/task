@@ -1,5 +1,7 @@
 # Task Library
 
+![Build](https://github.com/optionsvamp/task/actions/workflows/build.yaml/badge.svg)
+
 This is a simplistic task-running library in Go. It provides two main components: `Queue` and `Runner`.
 
 ## Table of Contents
